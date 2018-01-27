@@ -1,0 +1,33 @@
+html {
+  background-color: lightblue;
+}
+
+#sidebar {
+  float: left;
+  width: 10%;
+}
+
+#content {
+  float: left;
+  width: 40%;
+}
+
+.btn {
+  width: 100px;
+  border: solid black 1px;
+  border-radius: 5px;
+  padding: 5px;
+  margin-bottom: 5px;
+}
+
+.btn:hover {
+  background-color: darkblue;
+}
+
+.subContent {
+  margin-bottom: 5px;
+}
+
+h3 {
+  margin: 5px;
+}
