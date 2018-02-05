@@ -1,0 +1,19 @@
+html, body {
+  font-family: 'Work Sans', sans-serif !important;
+  background-image: url(kuve.jpeg);
+  background-size: cover;
+}
+
+.jumbotron {
+  text-align: center;
+  background: transparent !important;
+}
+
+.col-sm-4 {
+  text-align: center;
+}
+
+p {
+  padding-top: 10px;
+  text-align: justify;
+}

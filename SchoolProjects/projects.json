@@ -1,0 +1,26 @@
+{"projects":
+  [
+    {
+      "name" : "AMKF",
+      "about" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac magna eleifend, iaculis mauris id, posuere urna. Quisque finibus diam nisl, id cursus odio semper at. Mauris gravida finibus elit vitae ornare.",
+      "used" : "Mauris scelerisque varius enim at pretium. Nulla ante lectus, elementum vitae sem et,suscipit convallis ex. Integer vestibulum quam est,finibus ultrices velit vehicula a. Aliquam mi magna, maximus hendrerit eleifend at, ornare eu tortor.",
+      "images" : {
+        "img1" : "img1.jpg",
+        "img2" : "img2.jpg",
+        "img3" : "img3.jpg",
+        "img4" : null
+      }
+    },
+    {
+      "name" : "Timmy Gallery",
+      "about" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Nulla ac magna eleifend, iaculis mauris id, posuere urna. Quisque finibus diam nisl,id cursus odio semper at. Mauris gravida finibus elit vitae ornare.",
+      "used" : "Mauris scelerisque varius enim at pretium. Nulla ante lectus, elementum vitae sem et,suscipit convallis ex. Integer vestibulum quam est, finibus ultrices velit vehicula a. Aliquam mi magna, maximus hendrerit eleifend at, ornare eu tortor.",
+      "images" : {
+        "img1" : "img1.jpg",
+        "img2" : "img2.jpg",
+        "img3" : "img3.jpg",
+        "img4" : "img4.jpg"
+      }
+    }
+  ]
+}
